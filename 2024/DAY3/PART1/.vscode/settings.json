@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "func.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "ctype.h": "c"
+    },
+    "terminal.integrated.env.linux": {
+        
+        "LD_PRELOAD": null,
+    },
+    "makefile.configurations": [
+        {
+            "name": "Default",
+            "makeArgs": ["--no-silent"]
+        },
+    ],
+    "makefile.launchConfigurations": [
+        
+    ]
+}
